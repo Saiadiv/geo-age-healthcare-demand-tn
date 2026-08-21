@@ -11,4 +11,4 @@ uvicorn
 pydantic
 python-dotenv
 openpyxl
-jupyter 
+jupyter

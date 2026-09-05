@@ -26,6 +26,7 @@ data/raw/**/*.XLS
 data/raw/**/*.xlsx
 data/raw/**/*.json
 data/raw/**/*.parquet
+data/raw/**/*.pdf
 
 # Interim generated data
 data/interim/**/*.csv

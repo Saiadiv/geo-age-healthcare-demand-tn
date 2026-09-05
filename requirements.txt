@@ -12,3 +12,5 @@ pydantic
 python-dotenv
 openpyxl
 jupyter
+xlrd
+pdfplumber
